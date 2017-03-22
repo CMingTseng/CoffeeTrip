@@ -20,8 +20,8 @@ APIHost = "https://coffeetrip.yuer.tw/"
 ```
 
 ### Trello
-~~[Go!](https://trello.com/b/6Qpz4fIq/coffeetrip)~~  <br>
-*Close temporary :(*
+[Go!](https://trello.com/b/6Qpz4fIq/coffeetrip)  <br>
+
 
 #### Special thanks
 [@80ssundries](https://twitter.com/80ssundries) designed an elegant UI.<br>
